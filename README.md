@@ -1,2 +1,5 @@
 # groovy-java-win-githubactions
 [![windows Building Java Applications CI workflow](https://github.com/githubfoam/groovy-java-win-githubactions/actions/workflows/win-build-java-wf.yml/badge.svg)](https://github.com/githubfoam/groovy-java-win-githubactions/actions/workflows/win-build-java-wf.yml)
+[![junit-jupiter Building Java Applications  windows CI workflow](https://github.com/githubfoam/groovy-java-win-githubactions/actions/workflows/junit-jupiter-wf.yml/badge.svg)](https://github.com/githubfoam/groovy-java-win-githubactions/actions/workflows/junit-jupiter-wf.yml)  
+[![spock Building Java Applications  windows CI workflow](https://github.com/githubfoam/groovy-java-win-githubactions/actions/workflows/spock-wf.yml/badge.svg)](https://github.com/githubfoam/groovy-java-win-githubactions/actions/workflows/spock-wf.yml)  
+[![testng Building Java Applications  windows CI workflow](https://github.com/githubfoam/groovy-java-win-githubactions/actions/workflows/testng-wf.yml/badge.svg)](https://github.com/githubfoam/groovy-java-win-githubactions/actions/workflows/testng-wf.yml)
